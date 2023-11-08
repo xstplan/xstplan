@@ -1,11 +1,11 @@
-## 🙋🏻 Me
-👋欢迎来到我的 GitHub ！我是 PLAN小帅。  
+## 🙋🏻 **Me**  
+  *👋欢迎来到我的 GitHub ！我是 PLAN小帅。*  
 - 🔭 **语言: .Net**
 - 🌱 **业务: 监测、快捷工具、上位机、WEB**
 - 💎    **just do it ！**    💎  
  [![Github stats](https://github-readme-stats.vercel.app/api?username=xstplan&show_icons=true&include_all_commits=true)](https://github.com/xstplan/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xstplan)](https://github.com/xstplan/github-readme-stats)
-## 💻 Skills 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xstplan)](https://github.com/xstplan/github-readme-stats)  
+## 💻 **Skills**  
 ![Static Badge](https://img.shields.io/badge/.WPF-blue)
 ![Static Badge](https://img.shields.io/badge/Blazor-purple)
 ![Static Badge](https://img.shields.io/badge/ASP-orange)
